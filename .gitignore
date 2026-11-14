@@ -1,0 +1,28 @@
+# API keys and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+vlmenv/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated images
+images/
+
+# Extracted JSON, reports and API cache
+outputs/
+
+# Original financial statements
+data/*.pdf
+
+# IDE and system files
+.idea/
+.vscode/
+.DS_Store
