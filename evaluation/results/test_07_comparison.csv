@@ -1,0 +1,5 @@
+﻿Methode,ACTIF,PASSIF,Total,Couverture_ACTIF,Couverture_PASSIF,Couverture_globale
+Extraction initiale,44,38,82,86.27,86.36,86.32
+Decoupage simple,28,23,51,54.9,52.27,53.68
+Guided Extraction,51,44,95,100.0,100.0,100.0
+OpenCV + VLM,51,44,95,100.0,100.0,100.0

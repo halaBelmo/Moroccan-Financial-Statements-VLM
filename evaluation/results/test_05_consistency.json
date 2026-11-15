@@ -1,0 +1,583 @@
+{
+    "controles": [
+        {
+            "document": "ACTIF",
+            "controle": "Cohérence globale",
+            "colonne": "net_N",
+            "somme_calculee": 5375489.44,
+            "total_extrait": 5375489.44,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "Cohérence globale",
+            "colonne": "net_N_1",
+            "somme_calculee": 6435224.86,
+            "total_extrait": 6435224.86,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "Cohérence globale",
+            "colonne": "brut",
+            "somme_calculee": 7348323.77,
+            "total_extrait": 7348323.77,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "Cohérence globale",
+            "colonne": "amortissements_provisions",
+            "somme_calculee": 1972834.33,
+            "total_extrait": 1972834.33,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "IMMOBILISATIONS EN NON VALEUR",
+            "colonne": "net_N",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "IMMOBILISATIONS EN NON VALEUR",
+            "colonne": "net_N_1",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "IMMOBILISATIONS EN NON VALEUR",
+            "colonne": "brut",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "IMMOBILISATIONS EN NON VALEUR",
+            "colonne": "amortissements_provisions",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "IMMOBILISATIONS INCORPORELLES",
+            "colonne": "net_N",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "IMMOBILISATIONS INCORPORELLES",
+            "colonne": "net_N_1",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "IMMOBILISATIONS INCORPORELLES",
+            "colonne": "brut",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "IMMOBILISATIONS INCORPORELLES",
+            "colonne": "amortissements_provisions",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "IMMOBILISATIONS CORPORELLES",
+            "colonne": "net_N",
+            "somme_calculee": 4408291.83,
+            "total_extrait": 4408291.83,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "IMMOBILISATIONS CORPORELLES",
+            "colonne": "net_N_1",
+            "somme_calculee": 5684516.83,
+            "total_extrait": 5684516.83,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "IMMOBILISATIONS CORPORELLES",
+            "colonne": "brut",
+            "somme_calculee": 6381126.16,
+            "total_extrait": 6381126.16,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "IMMOBILISATIONS CORPORELLES",
+            "colonne": "amortissements_provisions",
+            "somme_calculee": 1972834.33,
+            "total_extrait": 1972834.33,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "IMMOBILISATIONS FINANCIERES",
+            "colonne": "net_N",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "IMMOBILISATIONS FINANCIERES",
+            "colonne": "net_N_1",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "IMMOBILISATIONS FINANCIERES",
+            "colonne": "brut",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "IMMOBILISATIONS FINANCIERES",
+            "colonne": "amortissements_provisions",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "ECART DE CONVERSION-ACTIF (E)",
+            "colonne": "net_N",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "ECART DE CONVERSION-ACTIF (E)",
+            "colonne": "net_N_1",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "ECART DE CONVERSION-ACTIF (E)",
+            "colonne": "brut",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "ECART DE CONVERSION-ACTIF (E)",
+            "colonne": "amortissements_provisions",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "STOCKS (F)",
+            "colonne": "net_N",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "STOCKS (F)",
+            "colonne": "net_N_1",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "STOCKS (F)",
+            "colonne": "brut",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "STOCKS (F)",
+            "colonne": "amortissements_provisions",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "CREANCES DE L'ACTIF CIRCULANT (G)",
+            "colonne": "net_N",
+            "somme_calculee": 814881.74,
+            "total_extrait": 814881.74,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "CREANCES DE L'ACTIF CIRCULANT (G)",
+            "colonne": "net_N_1",
+            "somme_calculee": 714881.74,
+            "total_extrait": 714881.74,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "CREANCES DE L'ACTIF CIRCULANT (G)",
+            "colonne": "brut",
+            "somme_calculee": 814881.74,
+            "total_extrait": 814881.74,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "CREANCES DE L'ACTIF CIRCULANT (G)",
+            "colonne": "amortissements_provisions",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "TITRES & VAL DE PLACEMENT (H)",
+            "colonne": "net_N",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "TITRES & VAL DE PLACEMENT (H)",
+            "colonne": "net_N_1",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "TITRES & VAL DE PLACEMENT (H)",
+            "colonne": "brut",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "TITRES & VAL DE PLACEMENT (H)",
+            "colonne": "amortissements_provisions",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "ECART DE CONVERSION-ACTIF (E.C) (I)",
+            "colonne": "net_N",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "ECART DE CONVERSION-ACTIF (E.C) (I)",
+            "colonne": "net_N_1",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "ECART DE CONVERSION-ACTIF (E.C) (I)",
+            "colonne": "brut",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "ECART DE CONVERSION-ACTIF (E.C) (I)",
+            "colonne": "amortissements_provisions",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "TRESORERIE - ACTIF",
+            "colonne": "net_N",
+            "somme_calculee": 152315.87,
+            "total_extrait": 152315.87,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "TRESORERIE - ACTIF",
+            "colonne": "net_N_1",
+            "somme_calculee": 35826.29,
+            "total_extrait": 35826.29,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "TRESORERIE - ACTIF",
+            "colonne": "brut",
+            "somme_calculee": 152315.87,
+            "total_extrait": 152315.87,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "ACTIF",
+            "controle": "TRESORERIE - ACTIF",
+            "colonne": "amortissements_provisions",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "Cohérence globale",
+            "colonne": "net_N",
+            "somme_calculee": 5375489.44,
+            "total_extrait": 5375489.44,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "Cohérence globale",
+            "colonne": "net_N_1",
+            "somme_calculee": 6435224.86,
+            "total_extrait": 6435224.86,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "CAPITAUX PROPRES",
+            "colonne": "net_N",
+            "somme_calculee": 905436.35,
+            "total_extrait": 905436.35,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "CAPITAUX PROPRES",
+            "colonne": "net_N_1",
+            "somme_calculee": -37394.26,
+            "total_extrait": -37394.26,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "CAPITAUX PROPRES ASSIMILÉS (B)",
+            "colonne": "net_N",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "CAPITAUX PROPRES ASSIMILÉS (B)",
+            "colonne": "net_N_1",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "DETTES DE FINANCEMENT (C)",
+            "colonne": "net_N",
+            "somme_calculee": 2829330.08,
+            "total_extrait": 2829330.08,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "DETTES DE FINANCEMENT (C)",
+            "colonne": "net_N_1",
+            "somme_calculee": 4534451.32,
+            "total_extrait": 4534451.32,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "PROVIS. DURABL. PR RISQUES & CHARGES (D)",
+            "colonne": "net_N",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "PROVIS. DURABL. PR RISQUES & CHARGES (D)",
+            "colonne": "net_N_1",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "ECARTS DE CONVERSION - PASSIF (E)",
+            "colonne": "net_N",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "ECARTS DE CONVERSION - PASSIF (E)",
+            "colonne": "net_N_1",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "DETTES DU PASSIF CIRCULANT (F)",
+            "colonne": "net_N",
+            "somme_calculee": 1640723.01,
+            "total_extrait": 1640723.01,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "DETTES DU PASSIF CIRCULANT (F)",
+            "colonne": "net_N_1",
+            "somme_calculee": 1938167.8,
+            "total_extrait": 1938167.8,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "AUTRES PROVIS POUR RISQUES & CHARGES (G)",
+            "colonne": "net_N",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "AUTRES PROVIS POUR RISQUES & CHARGES (G)",
+            "colonne": "net_N_1",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "ECART DE CONVERSION - PASSIF (E.CIR (H))",
+            "colonne": "net_N",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "ECART DE CONVERSION - PASSIF (E.CIR (H))",
+            "colonne": "net_N_1",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "TRESORERIE - PASSIF",
+            "colonne": "net_N",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        },
+        {
+            "document": "PASSIF",
+            "controle": "TRESORERIE - PASSIF",
+            "colonne": "net_N_1",
+            "somme_calculee": 0.0,
+            "total_extrait": 0.0,
+            "ecart": 0.0,
+            "coherent": true
+        }
+    ],
+    "total": 64,
+    "reussis": 64,
+    "taux_coherence": 100.0
+}

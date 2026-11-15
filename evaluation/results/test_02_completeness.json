@@ -1,0 +1,30 @@
+[
+    {
+        "document": "ACTIF",
+        "lignes_attendues": 51,
+        "lignes_extraites": 51,
+        "TP": 51,
+        "FP": 0,
+        "FN": 0,
+        "manquants": [],
+        "supplementaires": [],
+        "doublons": [],
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1_score": 100.0
+    },
+    {
+        "document": "PASSIF",
+        "lignes_attendues": 44,
+        "lignes_extraites": 44,
+        "TP": 44,
+        "FP": 0,
+        "FN": 0,
+        "manquants": [],
+        "supplementaires": [],
+        "doublons": [],
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1_score": 100.0
+    }
+]

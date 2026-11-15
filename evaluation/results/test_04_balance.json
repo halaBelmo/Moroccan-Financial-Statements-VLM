@@ -1,0 +1,19 @@
+{
+    "controles": [
+        {
+            "exercice": "net_N",
+            "total_actif": 5375489.44,
+            "total_passif": 5375489.44,
+            "ecart": 0.0,
+            "equilibre": true
+        },
+        {
+            "exercice": "net_N_1",
+            "total_actif": 6435224.86,
+            "total_passif": 6435224.86,
+            "ecart": 0.0,
+            "equilibre": true
+        }
+    ],
+    "taux_equilibre": 100.0
+}

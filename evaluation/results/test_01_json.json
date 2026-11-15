@@ -1,0 +1,18 @@
+[
+    {
+        "document": "ACTIF",
+        "json_valide": true,
+        "schema_valide": true,
+        "nombre_lignes": 51,
+        "nombre_erreurs": 0,
+        "erreurs": []
+    },
+    {
+        "document": "PASSIF",
+        "json_valide": true,
+        "schema_valide": true,
+        "nombre_lignes": 44,
+        "nombre_erreurs": 0,
+        "erreurs": []
+    }
+]

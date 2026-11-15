@@ -1,0 +1,31 @@
+{
+    "erreurs": {
+        "Erreurs de structure": 0,
+        "Postes manquants": 0,
+        "Postes supplementaires": 0,
+        "Doublons": 0,
+        "Erreurs de montants": 0,
+        "Desequilibres comptables": 0,
+        "Incoherences comptables": 0
+    },
+    "total_anomalies": 0,
+    "metadonnees_manquantes": [
+        {
+            "document": "ACTIF",
+            "champ": "entreprise"
+        },
+        {
+            "document": "ACTIF",
+            "champ": "date_cloture"
+        },
+        {
+            "document": "PASSIF",
+            "champ": "entreprise"
+        },
+        {
+            "document": "PASSIF",
+            "champ": "date_cloture"
+        }
+    ],
+    "exactitude_textuelle": "A verifier manuellement"
+}

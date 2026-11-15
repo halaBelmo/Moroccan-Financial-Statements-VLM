@@ -1,0 +1,38 @@
+[
+    {
+        "Methode":"Extraction initiale",
+        "ACTIF":44,
+        "PASSIF":38,
+        "Total":82,
+        "Couverture_ACTIF":86.27,
+        "Couverture_PASSIF":86.36,
+        "Couverture_globale":86.32
+    },
+    {
+        "Methode":"Decoupage simple",
+        "ACTIF":28,
+        "PASSIF":23,
+        "Total":51,
+        "Couverture_ACTIF":54.9,
+        "Couverture_PASSIF":52.27,
+        "Couverture_globale":53.68
+    },
+    {
+        "Methode":"Guided Extraction",
+        "ACTIF":51,
+        "PASSIF":44,
+        "Total":95,
+        "Couverture_ACTIF":100.0,
+        "Couverture_PASSIF":100.0,
+        "Couverture_globale":100.0
+    },
+    {
+        "Methode":"OpenCV + VLM",
+        "ACTIF":51,
+        "PASSIF":44,
+        "Total":95,
+        "Couverture_ACTIF":100.0,
+        "Couverture_PASSIF":100.0,
+        "Couverture_globale":100.0
+    }
+]
