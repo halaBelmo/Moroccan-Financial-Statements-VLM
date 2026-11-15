@@ -1,0 +1,342 @@
+{
+  "document": "Bilan Passif",
+  "modele": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "pretraitement": "V5",
+  "prompt": "V13",
+  "groupes": [
+    {
+      "groupe": "CAPITAUX PROPRES",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "CAPITAUX PROPRES",
+          "exercice": "905 436.35",
+          "exercice_precedent": "-37 394.26"
+        },
+        {
+          "id_ligne": 2,
+          "poste": "Capital social ou personnel (1)",
+          "exercice": "100 000.00",
+          "exercice_precedent": "100 000.00"
+        },
+        {
+          "id_ligne": 3,
+          "poste": "Moins:actionr., capit.souser.non appelé (-)",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 4,
+          "poste": "* Primes d'émission,de fusion d'apport",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 5,
+          "poste": "* Ecart de réévaluation",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 6,
+          "poste": "* Réserve légale",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 7,
+          "poste": "* Autres réserves",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 8,
+          "poste": "* Report a nouveau (2)",
+          "exercice": "362 605.74",
+          "exercice_precedent": "-18 488.90"
+        },
+        {
+          "id_ligne": 9,
+          "poste": "* Résultat net en instance d'affectat (2)",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 10,
+          "poste": "* Résultat net de l'exercice (2)",
+          "exercice": "442 830.61",
+          "exercice_precedent": "-118 905.36"
+        }
+      ]
+    },
+    {
+      "groupe": "TOTAL DES CAPITAUX PROPRES (A)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "TOTAL DES CAPITAUX PROPRES (A)",
+          "exercice": "905 436.35",
+          "exercice_precedent": "-37 394.26"
+        }
+      ]
+    },
+    {
+      "groupe": "CAPITAUX PROPRES ASSIMILES (B)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "CAPITAUX PROPRES ASSIMILES (B)",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 2,
+          "poste": "* Subventions d'investissement",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 3,
+          "poste": "* Provisions réglementées",
+          "exercice": null,
+          "exercice_precedent": null
+        }
+      ]
+    },
+    {
+      "groupe": "DETTES DE FINANCEMENT (C)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "DETTES DE FINANCEMENT (C)",
+          "exercice": "2 829 330.08",
+          "exercice_precedent": "4 534 451.32"
+        },
+        {
+          "id_ligne": 2,
+          "poste": "* Emprunts obligataires",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 3,
+          "poste": "* Autres dettes de financement",
+          "exercice": "2 829 330.08",
+          "exercice_precedent": "4 534 451.32"
+        }
+      ]
+    },
+    {
+      "groupe": "PROVIS. DURABL. PR RISQUES & CHARGES (D)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "PROVIS. DURABL. PR RISQUES & CHARGES (D)",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 2,
+          "poste": "* Provisions pour risques",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 3,
+          "poste": "* Provisions pour charges",
+          "exercice": null,
+          "exercice_precedent": null
+        }
+      ]
+    },
+    {
+      "groupe": "ECARTS DE CONVERSION - PASSIF (E)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "ECARTS DE CONVERSION - PASSIF (E)",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 2,
+          "poste": "* Augmentation des créances immobilières",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 3,
+          "poste": "* Diminution des dettes de financement",
+          "exercice": null,
+          "exercice_precedent": null
+        }
+      ]
+    },
+    {
+      "groupe": "TOTAL I (A+B+C+D+E)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "TOTAL I (A+B+C+D+E)",
+          "exercice": "3 734 766.43",
+          "exercice_precedent": "4 497 057.06"
+        }
+      ]
+    },
+    {
+      "groupe": "DETTES DU PASSIF CIRCULANT (F)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "DETTES DU PASSIF CIRCULANT (F)",
+          "exercice": "1 640 723.01",
+          "exercice_precedent": "1 938 167.80"
+        },
+        {
+          "id_ligne": 2,
+          "poste": "* Fournisseurs et comptes rattachés",
+          "exercice": "522 314.01",
+          "exercice_precedent": "819 758.80"
+        },
+        {
+          "id_ligne": 3,
+          "poste": "* Client créditeurs,avances & acomptes",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 4,
+          "poste": "* Personnel - créditeur",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 5,
+          "poste": "* Organismes sociaux",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 6,
+          "poste": "* Etat - créditeur",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 7,
+          "poste": "* Comptes d'associés - créditeurs",
+          "exercice": "1 118 409.00",
+          "exercice_precedent": "1 118 409.00"
+        },
+        {
+          "id_ligne": 8,
+          "poste": "* Autres créanciers",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 9,
+          "poste": "* Comptes de régularisation - passif",
+          "exercice": null,
+          "exercice_precedent": null
+        }
+      ]
+    },
+    {
+      "groupe": "AUTRES PROVIS POUR RISQUES & CHARGES (G)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "AUTRES PROVIS POUR RISQUES & CHARGES (G)",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 2,
+          "poste": "* Autres provis. p. risques & charges",
+          "exercice": null,
+          "exercice_precedent": null
+        }
+      ]
+    },
+    {
+      "groupe": "ECART DE CONVERSION - PASSIF (E.CIR (H)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "ECART DE CONVERSION - PASSIF (E.CIR (H)",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 2,
+          "poste": "* Ecart de convers.-passif (elt circulants)",
+          "exercice": null,
+          "exercice_precedent": null
+        }
+      ]
+    },
+    {
+      "groupe": "TOTAL II (F+G+H)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "TOTAL II (F+G+H)",
+          "exercice": "1 640 723.01",
+          "exercice_precedent": "1 938 167.80"
+        }
+      ]
+    },
+    {
+      "groupe": "TRESORERIE - PASSIF",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "TRESORERIE - PASSIF",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 2,
+          "poste": "* Crédits d'escompte",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 3,
+          "poste": "* Crédits de trésorerie",
+          "exercice": null,
+          "exercice_precedent": null
+        },
+        {
+          "id_ligne": 4,
+          "poste": "* Banques (soldes créditeurs)",
+          "exercice": null,
+          "exercice_precedent": null
+        }
+      ]
+    },
+    {
+      "groupe": "TOTAL III",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "TOTAL III",
+          "exercice": null,
+          "exercice_precedent": null
+        }
+      ]
+    },
+    {
+      "groupe": "TOTAL GENERAL (I+II+III)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "TOTAL GENERAL (I+II+III)",
+          "exercice": "5 375 489.44",
+          "exercice_precedent": "6 435 224.86"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "document": "Bilan Actif",
+  "modele": "Qwen2.5-VL-7B-Instruct",
+  "prompt": "V7",
+  "groupes": [
+    {
+      "groupe": "IMMOBILISATIONS EN NON VALEUR (A)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "IMMOBILISATIONS EN NON VALEUR (A)",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 2,
+          "poste": "Frais Préliminaires",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 3,
+          "poste": "Charges à Répartir sur plus. Exercs",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 4,
+          "poste": "Primes de rembours obligatio",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        }
+      ]
+    },
+    {
+      "groupe": "IMMOBILISATIONS INCORPORELLES (B)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "IMMOBILISATIONS INCORPORELLES (B)",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 2,
+          "poste": "Immob en recherche & développement",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 3,
+          "poste": "Brevets,marques droits & val.sim",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 4,
+          "poste": "Fond commercial",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 5,
+          "poste": "Autres immobilis incorporelles",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        }
+      ]
+    },
+    {
+      "groupe": "IMMOBILISATIONS CORPORELLES (C)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "IMMOBILISATIONS CORPORELLES (C)",
+          "brut": "6 381 126.16",
+          "amortissements": "1 972 834.33",
+          "net": "4 408 291.83",
+          "net_precedent": "5 684 516.83"
+        },
+        {
+          "id_ligne": 2,
+          "poste": "Terrains",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 3,
+          "poste": "Constructions",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 4,
+          "poste": "Installat.tech,matériel outillage",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 5,
+          "poste": "Matériel de transport",
+          "brut": "6 381 126.16",
+          "amortissements": "1 972 834.33",
+          "net": "4 408 291.83",
+          "net_precedent": "5 684 516.83"
+        },
+        {
+          "id_ligne": 6,
+          "poste": "Mobil,mat.bur.aménagements divers",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 7,
+          "poste": "Autres immob. corporelles",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 8,
+          "poste": "Immob. corporelles encours",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        }
+      ]
+    },
+    {
+      "groupe": "IMMOBILISATIONS FINANCIERES (D)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "IMMOBILISATIONS FINANCIERES (D)",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 2,
+          "poste": "Prêts immobilisés",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 3,
+          "poste": "Autres créances financières",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 4,
+          "poste": "Titres de participation",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 5,
+          "poste": "Autres titres immobilisés",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        }
+      ]
+    },
+    {
+      "groupe": "ECART DE CONVERSION-ACTIF (E)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "ECART DE CONVERSION-ACTIF (E)",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 2,
+          "poste": "Diminution des créances immob.",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 3,
+          "poste": "Augment des dettes de financement",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        }
+      ]
+    },
+    {
+      "groupe": "TOTAL I (A+B+C+D+E)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "TOTAL I (A+B+C+D+E)",
+          "brut": "6 381 126.16",
+          "amortissements": "1 972 834.33",
+          "net": "4 408 291.83",
+          "net_precedent": "5 684 516.83"
+        }
+      ]
+    },
+    {
+      "groupe": "STOCKS (F)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "STOCKS (F)",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 2,
+          "poste": "Marchandises",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 3,
+          "poste": "Matières & fournitures consommables",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 4,
+          "poste": "Produits encours",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 5,
+          "poste": "Produits intermédiaires",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 6,
+          "poste": "Produits finis",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        }
+      ]
+    },
+    {
+      "groupe": "CREANCES DE L'ACTIF CIRCULANT (G)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "CREANCES DE L'ACTIF CIRCULANT (G)",
+          "brut": "814 881.74",
+          "amortissements": null,
+          "net": "814 881.74",
+          "net_precedent": "714 881.74"
+        },
+        {
+          "id_ligne": 2,
+          "poste": "Fournis débit.avnces & accomp",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 3,
+          "poste": "Clients & comptes rattachés",
+          "brut": "400 000.00",
+          "amortissements": null,
+          "net": "400 000.00",
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 4,
+          "poste": "Personnel - débiteur",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 5,
+          "poste": "Etat - débiteur",
+          "brut": "414 881.74",
+          "amortissements": null,
+          "net": "414 881.74",
+          "net_precedent": "714 881.74"
+        },
+        {
+          "id_ligne": 6,
+          "poste": "Comptes d'associés - débiteurs",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 7,
+          "poste": "Autres débiteurs",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 8,
+          "poste": "Comptes de régularis.- actif",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        }
+      ]
+    },
+    {
+      "groupe": "TITRES & VAL. DE PLACEMENT (H)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "TITRES & VAL. DE PLACEMENT (H)",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 2,
+          "poste": "Titres & valeurs de placement",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        }
+      ]
+    },
+    {
+      "groupe": "ECART DE CONVERSION-ACTIF (E.C) (I)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "ECART DE CONVERSION-ACTIF (E.C) (I)",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 2,
+          "poste": "Ecart de convers. - actif(elt circulants)",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        }
+      ]
+    },
+    {
+      "groupe": "TOTAL II (F+G+H+I)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "TOTAL II (F+G+H+I)",
+          "brut": "814 881.74",
+          "amortissements": null,
+          "net": "814 881.74",
+          "net_precedent": "714 881.74"
+        }
+      ]
+    },
+    {
+      "groupe": "TRESORERIE - ACTIF",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "TRESORERIE - ACTIF",
+          "brut": "152 315.87",
+          "amortissements": null,
+          "net": "152 315.87",
+          "net_precedent": "35 826.29"
+        },
+        {
+          "id_ligne": 2,
+          "poste": "Chèques & val à encaisser",
+          "brut": null,
+          "amortissements": null,
+          "net": null,
+          "net_precedent": null
+        },
+        {
+          "id_ligne": 3,
+          "poste": "Banq.trésor gener. & chq p dbt",
+          "brut": "119 004.82",
+          "amortissements": null,
+          "net": "119 004.82",
+          "net_precedent": "2 515.24"
+        },
+        {
+          "id_ligne": 4,
+          "poste": "Caisse, régis d'avanc & accredi",
+          "brut": "33 311.05",
+          "amortissements": null,
+          "net": "33 311.05",
+          "net_precedent": "33 311.05"
+        }
+      ]
+    },
+    {
+      "groupe": "TOTAL III",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "TOTAL III",
+          "brut": "152 315.87",
+          "amortissements": null,
+          "net": "152 315.87",
+          "net_precedent": "35 826.29"
+        }
+      ]
+    },
+    {
+      "groupe": "TOTAL GENERAL (I+II+III)",
+      "lignes": [
+        {
+          "id_ligne": 1,
+          "poste": "TOTAL GENERAL (I+II+III)",
+          "brut": "7 348 323.77",
+          "amortissements": "1 972 834.33",
+          "net": "5 375 489.44",
+          "net_precedent": "6 435 224.86"
+        }
+      ]
+    }
+  ]
+}
