@@ -1,0 +1,16 @@
+[
+    {
+        "document": "ACTIF",
+        "json_valide": true,
+        "schema_valide": true,
+        "nombre_erreurs": 0,
+        "erreurs": []
+    },
+    {
+        "document": "PASSIF",
+        "json_valide": true,
+        "schema_valide": true,
+        "nombre_erreurs": 0,
+        "erreurs": []
+    }
+]

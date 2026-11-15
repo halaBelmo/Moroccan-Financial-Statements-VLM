@@ -1,0 +1,24 @@
+[
+    {
+        "document": "ACTIF",
+        "cellules_testees": 204,
+        "cellules_correctes": 204,
+        "cellules_incorrectes": 0,
+        "accuracy_globale": 100.0,
+        "montants_testes": 39,
+        "montants_corrects": 39,
+        "accuracy_montants": 100.0,
+        "erreurs": []
+    },
+    {
+        "document": "PASSIF",
+        "cellules_testees": 88,
+        "cellules_correctes": 88,
+        "cellules_incorrectes": 0,
+        "accuracy_globale": 100.0,
+        "montants_testes": 26,
+        "montants_corrects": 26,
+        "accuracy_montants": 100.0,
+        "erreurs": []
+    }
+]

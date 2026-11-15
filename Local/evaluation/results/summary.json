@@ -1,0 +1,15 @@
+{
+    "metrics": {
+        "JSON validity": 100.0,
+        "Precision": 100.0,
+        "Recall": 100.0,
+        "F1-score": 100.0,
+        "Amount accuracy": 100.0,
+        "Cell accuracy": 100.0,
+        "Accounting balance": 100.0,
+        "Financial consistency": 100.0
+    },
+    "latency_seconds": 1464.83,
+    "metadata_missing": 4,
+    "scope": "One financial statement. Label accuracy not fully tested."
+}
