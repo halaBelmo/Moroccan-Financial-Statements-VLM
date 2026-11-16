@@ -2,4 +2,7 @@ pymupdf
 openai
 python-dotenv
 pillow
+numpy
+opencv-python-headless
+groq
 

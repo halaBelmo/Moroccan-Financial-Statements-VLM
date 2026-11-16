@@ -1,0 +1,7 @@
+-r requirements.txt
+streamlit
+torch
+transformers
+accelerate
+bitsandbytes
+qwen-vl-utils

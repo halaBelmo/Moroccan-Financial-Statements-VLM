@@ -22,6 +22,9 @@ outputs/
 # Original financial statements
 data/*.pdf
 
+# Files uploaded through the local app and interface screenshots
+/local_uploads/
+
 # IDE and system files
 .idea/
 .vscode/

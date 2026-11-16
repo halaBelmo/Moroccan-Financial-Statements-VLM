@@ -168,6 +168,25 @@ Moroccan-Financial-Statements-VLM/
 
 ## Installation
 
+### Upload interface using the notebook model
+
+The local web interface uses **Qwen/Qwen2.5-VL-7B-Instruct** with 4-bit quantization, the ACTIF **V7** prompt, and the PASSIF **V13** prompt. It reads both prompt functions and group names directly from `Local/Local_extraction.ipynb`, so the notebook remains the source of truth. This interface does not use the Groq API or need `GROQ_API_KEY`.
+
+Use a Python environment with a CUDA-capable GPU and a CUDA-enabled PyTorch installation. Then install the interface dependencies and start Streamlit:
+
+```bash
+pip install -r requirements-app.txt
+streamlit run app.py
+```
+
+Open the local address printed by Streamlit. Upload a gridded Moroccan balance-sheet PDF, assign each page as ACTIF, PASSIF, or Skip, and click **Prepare group images**. Review the previews, then click **Run notebook model**. You can also upload one already-prepared group PNG/JPG and select its group. The result is downloadable JSON (or a ZIP for multiple pages).
+
+Uploaded files are saved under `local_uploads/files/`. App screenshots can be kept under `local_uploads/screenshots/`. The entire `local_uploads/` folder is excluded by `.gitignore`.
+
+For PDF input, the notebook group layout requires 53 detected ACTIF source rows (the first two are outside the 51 extracted group rows) or 44 PASSIF rows. If detection does not match, the interface shows an error instead of assigning financial values to possibly incorrect rows. Scans without clear table borders need different preprocessing. The first model run may download several gigabytes of weights.
+
+The command-line `analyse_image.py` workflow described below is a separate Groq-based prototype.
+
 **1. Clone or download the repository**, then open a terminal in the project directory.
 
 **2. Create and activate a virtual environment** (Linux/macOS):
