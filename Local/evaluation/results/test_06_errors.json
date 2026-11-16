@@ -1,0 +1,30 @@
+{
+    "erreurs": {
+        "Structure": 0,
+        "Missing rows": 0,
+        "Extra rows": 0,
+        "Incorrect cells": 0,
+        "Balance failures": 0,
+        "Consistency failures": 0
+    },
+    "total_anomalies": 0,
+    "metadonnees_manquantes": [
+        {
+            "document": "ACTIF",
+            "champ": "entreprise"
+        },
+        {
+            "document": "ACTIF",
+            "champ": "date_cloture"
+        },
+        {
+            "document": "PASSIF",
+            "champ": "entreprise"
+        },
+        {
+            "document": "PASSIF",
+            "champ": "date_cloture"
+        }
+    ],
+    "exactitude_textuelle": "Not fully evaluated"
+}

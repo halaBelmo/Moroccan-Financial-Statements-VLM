@@ -1,0 +1,8 @@
+{
+    "secondes": {
+        "ACTIF": 736.36,
+        "PASSIF": 728.47
+    },
+    "total_secondes": 1464.83,
+    "scope": "Recorded inference only"
+}

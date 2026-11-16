@@ -1,0 +1,113 @@
+{
+    "api": {
+        "JSON Validity": 100.0,
+        "Completeness": 100.0,
+        "Precision": 100.0,
+        "Recall": 100.0,
+        "F1-score": 100.0,
+        "Amount Accuracy": 100.0,
+        "Cell Accuracy": 100.0,
+        "Accounting Balance": 100.0,
+        "Financial Consistency": 100.0,
+        "rows": 95,
+        "expected_rows": 95,
+        "amounts_correct": 65,
+        "amounts_total": 65,
+        "cells_correct": 292,
+        "cells_total": 292,
+        "controls_passed": 64,
+        "controls_total": 64,
+        "balance_passed": 2,
+        "balance_total": 2,
+        "errors": 0,
+        "metadata": 4,
+        "latency": 40.0,
+        "latency_source": "Estimated"
+    },
+    "local": {
+        "JSON Validity": 100.0,
+        "Completeness": 100.0,
+        "Precision": 100.0,
+        "Recall": 100.0,
+        "F1-score": 100.0,
+        "Amount Accuracy": 100.0,
+        "Cell Accuracy": 100.0,
+        "Accounting Balance": 100.0,
+        "Financial Consistency": 100.0,
+        "rows": 95,
+        "expected_rows": 95,
+        "amounts_correct": 65,
+        "amounts_total": 65,
+        "cells_correct": 292,
+        "cells_total": 292,
+        "controls_passed": 64,
+        "controls_total": 64,
+        "balance_passed": 2,
+        "balance_total": 2,
+        "errors": 0,
+        "metadata": 4,
+        "latency": 1464.83,
+        "latency_source": "Recorded"
+    },
+    "comparison": [
+        {
+            "metric": "JSON Validity",
+            "api": 100.0,
+            "local": 100.0,
+            "difference": 0.0
+        },
+        {
+            "metric": "Completeness",
+            "api": 100.0,
+            "local": 100.0,
+            "difference": 0.0
+        },
+        {
+            "metric": "Precision",
+            "api": 100.0,
+            "local": 100.0,
+            "difference": 0.0
+        },
+        {
+            "metric": "Recall",
+            "api": 100.0,
+            "local": 100.0,
+            "difference": 0.0
+        },
+        {
+            "metric": "F1-score",
+            "api": 100.0,
+            "local": 100.0,
+            "difference": 0.0
+        },
+        {
+            "metric": "Amount Accuracy",
+            "api": 100.0,
+            "local": 100.0,
+            "difference": 0.0
+        },
+        {
+            "metric": "Cell Accuracy",
+            "api": 100.0,
+            "local": 100.0,
+            "difference": 0.0
+        },
+        {
+            "metric": "Accounting Balance",
+            "api": 100.0,
+            "local": 100.0,
+            "difference": 0.0
+        },
+        {
+            "metric": "Financial Consistency",
+            "api": 100.0,
+            "local": 100.0,
+            "difference": 0.0
+        }
+    ],
+    "speedup": 36.62075,
+    "time_reduction_percentage": 97.26930770123495,
+    "latency_comparison_estimated": true,
+    "scope": "Single financial statement",
+    "text_accuracy": "Not fully evaluated"
+}
